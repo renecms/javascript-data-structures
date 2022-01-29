@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "typescript": "^4.5.5"
+  },
+  "name": "javascript-data-structures",
+  "version": "1.0.0",
+  "description": "project to develop code in the book Learning JavaScript Data Structures and Algorithms",
+  "main": "index.js",
+  "author": "Rene Dolores",
+  "license": "MIT"
+}
